@@ -7,12 +7,5 @@
 ![image](https://github.com/muhazmi/lara-starter/assets/22718017/fc80ce1a-390d-4224-9346-7f764eeddf50)
 ![image](https://github.com/muhazmi/lara-starter/assets/22718017/c82315bd-9fff-4c23-ba3d-abf139d24fe1)
 
-<h2>Features</h2>
-<ul>
-    <li>Laravel Breeze (Blade)</li>
-    <li>Spatie Permission v6 with multi role</li>
-    <li>Indonesian Region by Laravolt include: Province, City, District, Village</li>
-    <li>Dashboard Admin: CRUD Post, Category, Tag, User, Navigation, Permission, Role</li>
-    <li>Dashboard Author: CRUD Post, Edit Profile</li>
-</ul>
+
 
